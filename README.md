@@ -2,7 +2,7 @@
 
 A classic Snake game implemented in Python using Pygame with modern features!
 
-## Features
+## Features ##
 
 - **Smooth Gameplay**: Classic snake mechanics with clean graphics
 - **Score Tracking**: Keep track of your high score
